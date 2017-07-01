@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 pip
 git+git://github.com/Rapptz/discord.py.git#egg=discord.py[voice]
 youtube_dl
@@ -18,4 +17,3 @@ virtualenv==15.1.0
 websockets==3.3
 youtube-dl==2017.6.18
 setuptools==0.7.3
->>>>>>> 1931482d97586df9fe5212bef594dea5d8e862b8
