@@ -1,4 +1,21 @@
+<<<<<<< HEAD
 pip
 git+git://github.com/Rapptz/discord.py.git#egg=discord.py[voice]
 youtube_dl
 imgurpython
+=======
+aiohttp==1.0.5
+async-timeout==1.2.1
+cffi==1.6.0
+chardet==3.0.4
+discord.py==0.12.0
+gunicorn==19.7.1
+multidict==2.1.6
+pycparser==2.17
+PyNaCl==1.0.1
+six==1.10.0
+virtualenv==15.1.0
+websockets==3.3
+youtube-dl==2017.6.18
+setuptools==0.7.3
+>>>>>>> 1931482d97586df9fe5212bef594dea5d8e862b8

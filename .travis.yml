@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 language: python
 python:
   - "3.5.2"
@@ -10,3 +11,17 @@ script:
 cache: pip
 notifications:
   email: false
+=======
+language: python
+python:
+  - "3.5.2"
+install:
+  - pip install -r requirements.txt
+script:
+  - python -m compileall ./red.py
+  - python -m compileall ./cogs
+  - python ./red.py --no-prompt --no-cogs --dry-run
+cache: pip
+notifications:
+  email: false
+>>>>>>> 1931482d97586df9fe5212bef594dea5d8e862b8

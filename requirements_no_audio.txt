@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 pip
 git+git://github.com/Rapptz/discord.py.git
 youtube_dl
+=======
+pip
+git+git://github.com/Rapptz/discord.py.git
+youtube_dl
+>>>>>>> 1931482d97586df9fe5212bef594dea5d8e862b8
 imgurpython

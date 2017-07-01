@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.json
 *.pyc
 __pycache__
@@ -5,4 +6,13 @@ data
 !data/trivia/*
 !data/audio/playlists/*
 *.exe
+=======
+*.json
+*.pyc
+__pycache__
+data
+!data/trivia/*
+!data/audio/playlists/*
+*.exe
+>>>>>>> 1931482d97586df9fe5212bef594dea5d8e862b8
 *.dll
