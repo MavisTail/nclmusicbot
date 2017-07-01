@@ -1,6 +1,5 @@
 pip
 git+git://github.com/Rapptz/discord.py.git#egg=discord.py[voice]
-youtube_dl
 imgurpython
 aiohttp==1.0.5
 async-timeout==1.2.1
